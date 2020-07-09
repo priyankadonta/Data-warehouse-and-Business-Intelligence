@@ -4,9 +4,9 @@
 2. Creating Azure SQL Server, Database and DevOps operations
 3. Dashboard using PowerBI representing 
 
-  a.Number of Beds
-  
-  b.Total Revenue
-  
-  c.Inpatient and Outpatient details
+    a.Number of Beds
+
+    b.Total Revenue
+
+    c.Inpatient and Outpatient details
   
